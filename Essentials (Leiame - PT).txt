@@ -1,0 +1,60 @@
+  __  __ _      __  __           _     
+ |  \/  (_)    |  \/  |         | | 2021
+ | \  / |___  _| \  / | ___   __| |___ 
+ | |\/| | \ \/ / |\/| |/ _ \ / _` / __|
+ | |  | | |>  <| |  | | (_) | (_| \__ \
+ |_|  |_|_/_/\_\_|  |_|\___/ \__,_|___/
+                                       
+
+=======   MixMods.com.br   ======= - Melhor visualizável em fontes mono-espaçadas, como "Consolas".
+
+
+------- Instruções:
+
+Extraia TUDO para a pasta do seu GTA SA.
+
+Caso seu GTA seja Steam/RLG, faça downgrade: MixMods.com.br/2014/11/primeiros-passos-para-montar-um-gta.html#Downgrade
+
+
+== Mods incluídos neste pack:
+Crack 1.0 US Hoodlum + 4 GB largeaddress patch
+Silent's ASI Loader v1.3
+CLEO v4.4.0 (sem arquivos para desenvolvedores)
+CLEO+ v1.0.7 (sem arquivos para desenvolvedores)
+ModLoader v0.3.7
+SilentPatch v1.1 Build 32 (re-release)
+Widescreen Fix by ThirteenAG 27/09/18
+Widescreen Fix HOR+ Support v1.0.2 (recompiled by ThirteenAG)
+Windowed Mode v1.6
+Framerate Vigilante 08/06/20
+RunDLL32 Fix
+NoDEP
+
+
+Na pasta "(ESSENTIALS README)" inclui todos os arquivos Leiame (IGNORE AS INSTRUÇÕES DE INSTALAÇÃO NELES).
+Também, um atalho para o post de cada mod para mais informações (é muito importante ler para aprender o que o mod faz, possíveis problemas etc)
+
+
+Ainda há diversos mods importantes para instalar, como Open Limit Adjuster, MixSets etc.
+NÃO DEIXE DE SEGUIR ESTA PÁGINA:
+https://www.mixmods.com.br/2014/11/primeiros-passos-para-montar-um-gta.html
+Lá há mais mods importantes e boas práticas de como modificar o GTA.
+
+
+Periodicamente, visite esta página para ver se lançou uma nova versão desse pack com mods atualizados:
+https://www.mixmods.com.br/2019/06/Essentials.html
+É muito importante sempre ter as mais recentes versões destes mods para corrigir problemas, ter coisas novas, poder instalar mods novos etc.
+
+
+Originalmente o Silent's ASI Loader vem com uma pasta "scripts" mas pouca gente instala .asi nela, preferem instalar no ModLoader.
+Se você quiser, basta criar uma pasta chamada "scripts" na pasta do jogo e instalar os mods ASI nela.
+
+
+Pack: 16/01/21 (DD/MM/YY)
+--------------------
+
+
+====   MixMods.com.br                ====
+====   fb.com/FamiliaMixMods         ====
+====   youtube.com/JuniorDjjrMixMods ====
+
