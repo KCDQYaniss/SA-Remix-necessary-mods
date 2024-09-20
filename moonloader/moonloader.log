@@ -1,0 +1,117 @@
+[02:15:35.037589] (system)	Session started.
+[02:15:35.037589] (debug)	Module handle: 67320000
+
+MoonLoader v.026.5-beta loaded.
+Developers: FYP, hnnssy, EvgeN 1137
+
+Copyright (c) 2016, BlastHack Team
+http://blast.hk/moonloader/
+
+[02:15:35.037589] (info)	Working directory: E:\GTASA\GTASA\moonloader
+[02:15:35.037589] (debug)	FP Control: 0009001F
+[02:15:35.037589] (debug)	Game: GTA SA 1.0.0.0 US
+[02:15:35.037589] (system)	Installing pre-game hooks...
+[02:15:35.038589] (system)	Hooks installed.
+[02:15:45.911275] (debug)	Initializing opcode handler table
+[02:15:45.912275] (debug)	package.path = E:\GTASA\GTASA\moonloader\lib\?.lua;E:\GTASA\GTASA\moonloader\lib\?\init.lua;E:\GTASA\GTASA\moonloader\?.lua;E:\GTASA\GTASA\moonloader\?\init.lua;.\?.lua;E:\GTASA\GTASA\moonloader\lib\?.luac;E:\GTASA\GTASA\moonloader\lib\?\init.luac;E:\GTASA\GTASA\moonloader\?.luac;E:\GTASA\GTASA\moonloader\?\init.luac;.\?.luac
+[02:15:45.912275] (debug)	package.cpath = E:\GTASA\GTASA\moonloader\lib\?.dll;
+[02:15:45.914276] (system)	Loading script 'E:\GTASA\GTASA\moonloader\SARemiv_LightMan.lua'...
+[02:15:45.914276] (debug)	New script: 055042BC
+[02:15:45.918277] (system)	SARemix_Light_Manager: Loaded successfully.
+[02:15:45.918277] (system)	Loading script 'E:\GTASA\GTASA\moonloader\SARemiv_VTK.lua'...
+[02:15:45.918277] (debug)	New script: 055048DC
+[02:15:45.928279] (system)	SARemix_Vehicle_Toolkit: Loaded successfully.
+[02:15:45.928279] (system)	Loading script 'E:\GTASA\GTASA\moonloader\SARemix_HBAO.lua'...
+[02:15:45.928279] (debug)	New script: 05504BEC
+[02:15:45.929279] (system)	SARemix_HBAO: Loaded successfully.
+[02:15:45.929279] (system)	Loading script 'E:\GTASA\GTASA\moonloader\SARemix_Sun.lua'...
+[02:15:45.929279] (debug)	New script: 05504D74
+[02:15:45.935280] (system)	SARemix_Real_Sun: Loaded successfully.
+[02:15:58.173205] (system)	Installing post-load hooks...
+[02:15:58.173205] (system)	Hooks installed.
+[02:15:58.173205] (script)	SARemix_Light_Manager: Loading settings from:   E:\GTASA\GTASA\moonloader/SARemix_Light_Manager.dat
+[02:15:58.173205] (script)	SARemix_Light_Manager: Settings loaded successfully:   table: 0x07e9f820
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1231
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : -0.360, y : 0.000, z : 2.650
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 2] : x : 0.550, y : 0.000, z : 2.650
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1226
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : -1.300, y : 0.175, z : 3.710
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1223
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : 0.720, y : 0.000, z : 4.400
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1278
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : 0.000, y : 0.000, z : 0.000
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 2] : x : 0.000, y : 0.000, z : 0.000
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 3] : x : 0.000, y : 0.000, z : 0.000
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 2072
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : 0.000, y : 0.000, z : 0.000
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 2] : x : 0.000, y : 0.000, z : 0.000
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 3] : x : 0.000, y : 0.000, z : 0.000
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1297
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : -0.500, y : 0.000, z : 3.075
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1290
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : -3.000, y : 0.000, z : 5.500
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 2] : x : 3.000, y : 0.000, z : 5.500
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1294
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : -1.350, y : 0.000, z : 4.020
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 3460
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : 0.000, y : 1.500, z : 3.600
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1215
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : 0.020, y : 0.005, z : 0.180
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1232
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : 0.000, y : 0.000, z : 2.750
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1568
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : 0.000, y : 0.000, z : 3.500
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1351
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : -1.750, y : 0.000, z : 6.000
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 3855
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : -2.100, y : 0.120, z : 7.650
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1298
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : 0.000, y : 0.000, z : 0.000
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1319
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : 0.000, y : 0.000, z : 0.500
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 1350
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : -2.100, y : 0.100, z : 7.600
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 3472
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : 0.000, y : 0.000, z : 0.000
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 2] : x : 0.000, y : 0.000, z : 0.000
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 3] : x : 0.000, y : 0.000, z : 0.000
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 3853
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : -1.250, y : 0.180, z : 3.650
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 3463
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : 0.000, y : 0.000, z : 0.000
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 2] : x : 0.000, y : 0.000, z : 0.000
+[02:15:58.173205] (script)	SARemix_Light_Manager: Light ID : 3864
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 1] : x : -0.500, y : 0.550, z : 4.500
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 2] : x : -0.500, y : -0.550, z : 4.500
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 3] : x : -0.500, y : 0.550, z : 5.500
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 4] : x : -0.500, y : -0.550, z : 5.500
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 5] : x : -0.500, y : 0.550, z : 6.500
+[02:15:58.173205] (script)	SARemix_Light_Manager:     [pos 6] : x : -0.500, y : -0.550, z : 6.500
+[02:16:00.896822] (script)	SARemix_Real_Sun: Loading settings from:   E:\GTASA\GTASA\moonloader/SARemix_Real_Sun.dat
+[02:16:00.896822] (script)	SARemix_Real_Sun: Settings loaded successfully:   table: 0x080a76b8
+[02:16:00.896822] (script)	SARemix_Real_Sun: object 15890 loaded successfully
+[02:16:00.896822] (script)	SARemix_Real_Sun: object 15890 loaded successfully
+[02:16:00.896822] (script)	SARemix_Real_Sun: object 15891 loaded successfully
+[02:16:05.045727] (script)	SARemix_Real_Sun: object 15891 loaded successfully
+[02:16:21.773634] (system)	Unloading...
+[02:16:21.789638] (error)	SARemix_Real_Sun: opcode '0108' call caused an unhandled exception
+stack traceback:
+	[C]: in function 'deleteObject'
+	E:\GTASA\GTASA\moonloader\SARemix_Sun.lua:333: in function <E:\GTASA\GTASA\moonloader\SARemix_Sun.lua:331>
+[02:16:21.789638] (system)	SARemix_Light_Manager: Script terminated. (055042BC)
+[02:16:21.798640] (error)	SARemix_Real_Sun: opcode '0108' call caused an unhandled exception
+stack traceback:
+	[C]: in function 'deleteObject'
+	E:\GTASA\GTASA\moonloader\SARemix_Sun.lua:333: in function <E:\GTASA\GTASA\moonloader\SARemix_Sun.lua:331>
+[02:16:21.798640] (system)	SARemix_Vehicle_Toolkit: Script terminated. (055048DC)
+[02:16:21.803641] (error)	SARemix_Real_Sun: opcode '0108' call caused an unhandled exception
+stack traceback:
+	[C]: in function 'deleteObject'
+	E:\GTASA\GTASA\moonloader\SARemix_Sun.lua:333: in function <E:\GTASA\GTASA\moonloader\SARemix_Sun.lua:331>
+[02:16:21.803641] (system)	SARemix_HBAO: Script terminated. (05504BEC)
+[02:16:21.803641] (error)	SARemix_Real_Sun: opcode '0108' call caused an unhandled exception
+stack traceback:
+	[C]: in function 'deleteObject'
+	E:\GTASA\GTASA\moonloader\SARemix_Sun.lua:333: in function <E:\GTASA\GTASA\moonloader\SARemix_Sun.lua:331>
+[02:16:21.803641] (error)	SARemix_Real_Sun: Script died due to an error. (05504D74)
+[02:18:39.460823] (system)	Session terminated.
