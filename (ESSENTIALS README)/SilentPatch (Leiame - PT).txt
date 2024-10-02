@@ -1,0 +1,45 @@
+  __  __ _      __  __           _     
+ |  \/  (_)    |  \/  |         | | 2020
+ | \  / |___  _| \  / | ___   __| |___ 
+ | |\/| | \ \/ / |\/| |/ _ \ / _` / __|
+ | |  | | |>  <| |  | | (_) | (_| \__ \
+ |_|  |_|_/_/\_\_|  |_|\___/ \__,_|___/
+                                       
+
+=======   MixMods.com.br   ======= - Melhor visualizável com fontes mono-espaçadas, como "Consolas".
+
+
+------- Instruções:
+
+Extraia a pasta "SilentPatch" para a pasta do seu Modloader. Ou se preferir, o conteúdo para a pasta do seu GTA, ou pasta "Scripts".
+
+-- Download da última versão do Modloader: MixMods.com.br/2015/01/SA-Modloader.html
+
+
+
+ Dentro do .ini há várias informações e algumas coisas que você pode querer ativar/desativar.
+
+ Lembre-se que o Maverick e Skimmer vêm desativados por padrão no .ini na correção das hélices, devido aos modelos originais serem bugados.
+ Se você quiser, download dos modelos corrigidos: https://sharemods.com/71hnwbzkk0nu/RotorFix_for_SilentPatch.7z.html
+
+ Lista de todas as funções em português aqui: MixMods.com.br/2015/03/SilentPatch.html
+ Leia o "Readme (ORIGINAL).txt" se você quer instalar na versão Steam ou RGL (Rockstar Games Launcher).
+
+
+
+Versão: v1.1 Build 32 (re-release)
+--------------------
+
+Autor: Silent
+
+Créditos:
+DK22Pac - correção das "luzes escuras", correção dos componentes dettachados, ajuda com shaders, suporte técnico
+NTAuthority - código de fases da lua, código de remoção de dependência DirectPlay, suporte técnico
+
+Pessoas que ajudaram a encontrar problemas, testar ou em geral apoiadoras:
+aap, Ash_735, Blackbird88, gamerzworld, iFarbod, Inadequate, LonesomeRider, mirh, Nick007J, Reyks, spaceeinstein, Tomasak
+
+
+====   MixMods.com.br                ====
+====   fb.com/FamiliaMixMods         ====
+====   youtube.com/JuniorDjjrMixMods ====
